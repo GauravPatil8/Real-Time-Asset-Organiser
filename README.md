@@ -2,9 +2,10 @@
 
 ## Overview
 
-This markdown document outlines the functionality and use cases of a file organizer software designed to categorize and organize files based on their extensions in real-time. The software offers features like extension categorization, customizable folder structures, user-defined delay options, and logging capabilities.
+This markdown document outlines the functionality and use cases of a file organizer software designed to categorize and organize files based on their extensions in real-time. This documentation serves to present the features of the Blender add-on "Real-time Asset Organizer". The add-on can be purchased from [this link](#). 
 
 ### Working
+
 1. **Categorization**: Files are categorized into the following categories:
    - Model
    - Project files
@@ -33,22 +34,22 @@ This markdown document outlines the functionality and use cases of a file organi
 
 ### Scenario:
 
-John, a freelance animator, receives multiple files from his client's cloud storage. He needs to organize these files efficiently to streamline his workflow.
+A user, a freelance animator, receives multiple files from his client's cloud storage. He needs to organize these files efficiently to streamline his workflow.
 
 ### Solution:
 
-1. John sets up the file organizer software with his custom folder structure, including folders for models, textures, project files, etc.
+1. The user sets up the Asset organizer Addon with his custom folder structure, including folders for models, textures, project files, etc.
 
-2. As John downloads files from the client's drive, the software automatically categorizes and moves them to their respective folders in real-time.
+2. As the user downloads files from the client's drive, the software automatically categorizes and moves them to their respective folders in real-time.
 
-3. If John wants to review the file movements, he can check the software's logs to ensure all files are correctly organized.
+3. If the user wants to review the file movements, he can check the software's logs to ensure all files are correctly organized.
 
-4. John can also set a delay option to organize files after a specific duration, allowing him time to review and manage his workflow effectively.
+4. The user can also set a delay option to organize files after a specific duration, allowing him time to review and manage his workflow effectively.
 
 ### Result:
 
-With the file organizer software, John can efficiently manage his files, saving time and increasing productivity in his animation projects.
+With the Asset organizer Addon, the user can efficiently manage his files, saving time and increasing productivity in his animation projects.
 
 ## Conclusion
 
-The file organizer software offers a convenient solution for categorizing and organizing various file types in real-time. Its customizable features cater to the needs of both hobbyists and professionals, making asset management seamless and efficient.
+The Real-Time Asset Organiser addon offers a convenient solution for categorizing and organizing various file types in real-time. Its customizable features cater to the needs of both hobbyists and professionals, making asset management seamless and efficient.
