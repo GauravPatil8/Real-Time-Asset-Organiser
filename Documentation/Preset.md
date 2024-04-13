@@ -8,8 +8,8 @@ In this option, you can select the folder structure preset or use the Default fo
 ![Select Preset](https://github.com/Gauravpatil-8/Real-Time-Asset-Organiser/blob/main/Resource/Install.png)<br>
 If you want to install a folder structure preset created by someone (friend or colleague), you need to first download it from them and store it on your computer. Then, you can click on the "Install" button in the UI panel of the addon. It will open up a file browser from where you can choose the directory where you have stored the preset (usually a '.json' file). Just select the preset and click "Install Preset". This will install the preset in the addon.
 
-:::Note:::
-`**After installing the preset, you will have to restart Blender.**`
+:Note:
+**`After installing the preset, you will have to restart Blender.`**
 
 
 ### Deleting a Preset
