@@ -8,5 +8,5 @@ It has two options:
 
 1. **Separate Assets**: This option organizes all assets into their respective folders during the extraction of a zipfile.
 
-2. **Predominant Asset Type**: This option extracts a Zipfile into a specific folder based on the predominant type of asset it contains. For instance, if the Zipfile contains a significant number of video files, it will be extracted into the video files folder.
+2. **Predominant Asset Type**: This option extracts a Zipfile into a specific folder based on the predominant type of asset it contains. For example, if the Zipfile contains a significant number of video files, it will be extracted into the video files folder. However, if the zipfile contains even a single model file, the entire zipfile will be extracted into the model file folder.
 
