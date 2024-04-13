@@ -1,5 +1,5 @@
 ### Installing and Enabling a Blender Add-on
-![addon]([https://github.com/Gauravpatil-8/Real-Time-Asset-Organiser/edit/main/Resource/Addonui.png](https://github.com/Gauravpatil-8/Real-Time-Asset-Organiser/blob/main/Resource/Addonui.png))
+![addon](https://github.com/Gauravpatil-8/Real-Time-Asset-Organiser/blob/main/Resource/Addonui.png)<br>
 1. **Download the Add-on**: First, download the add-on file (a `.zip` file) from Blender Market.
 
 2. **Open Blender**: Launch Blender on your computer. Make sure you have the correct version of Blender that is compatible with the add-on you want to install.
