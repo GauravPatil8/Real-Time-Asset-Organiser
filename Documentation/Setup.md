@@ -1,6 +1,7 @@
 ### Installing and Enabling Real-Time Asset Organiser Add-on
-![addon](https://github.com/Gauravpatil-8/Real-Time-Asset-Organiser/blob/main/Resource/Addonui.png)<br>
 ### If you've completed the setup process, you can now start reading the documentation from the [Presets](https://github.com/Gauravpatil-8/Real-Time-Asset-Organiser/blob/main/Documentation/Preset.md) section.<br>
+![addon](https://github.com/Gauravpatil-8/Real-Time-Asset-Organiser/blob/main/Resource/Addonui.png)<br>
+
 
 1. **Download the Add-on**: First, download the add-on file (a `.zip` file) from Blender Market.
 
