@@ -12,3 +12,4 @@ To create a preset of folder structure, follow these steps:
 4. **Assign Tags to Subdirectories**: The tag that you add to the subdirectory will be used to store that type of asset in the specified subfolder. If you don't want to add any asset in that folder, you can set the tag to "none".<br>
 ![tags](https://github.com/Gauravpatil-8/Real-Time-Asset-Organiser/blob/main/Resource/tags.png)<br>
 
+## More: [Default Configuration](https://github.com/Gauravpatil-8/Real-Time-Asset-Organiser/blob/main/Documentation/Default-configuration.md)
