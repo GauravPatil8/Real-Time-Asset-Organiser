@@ -1,7 +1,7 @@
 # Addon Features
 
 ## Selecting a Preset
-![Install](Select Preset.png)
+([Select Preset.png](https://github.com/Gauravpatil-8/Real-Time-Asset-Organiser/blob/main/Resource/Select%20Preset.png))
 In this option, you can select the folder structure preset or use the Default folder structure. There are four buttons provided below for installation, deletion, refreshing the list, or sharing the preset.
 
 ### Installing a Preset
