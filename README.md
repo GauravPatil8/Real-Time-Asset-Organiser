@@ -2,7 +2,7 @@
 
 ## Overview
 
-This markdown document outlines the functionality and use cases of a file organizer software designed to categorize and organize files based on their extensions in real-time. This documentation serves to present the features of the Blender add-on "Real-time Asset Organizer". The add-on can be purchased from [this link](#). 
+This markdown document outlines the functionality and use cases of the Real-Time Asset Organiser addon designed to categorize and organize files  in real-time. This documentation serves to present the features of the Blender add-on "Real-time Asset Organizer". The add-on can be purchased from [this link](#). 
 
 ### Working
 
