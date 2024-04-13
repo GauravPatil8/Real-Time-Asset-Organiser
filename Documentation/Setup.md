@@ -19,3 +19,5 @@
 9. **Save Preferences**: Finally, to ensure that the add-on is enabled every time you open Blender, click `Save Preferences` at the bottom left corner of the Preferences window.
     
 That's it! The add-on is now installed and enabled in Blender, and you can start using its features in your projects.
+If you are done installing the add-on, start by understanding the features of the add-on from this link: [Feature Documentation](https://github.com/Gauravpatil-8/Real-Time-Asset-Organiser/blob/main/Documentation/FeatureDocumentation.md)
+
