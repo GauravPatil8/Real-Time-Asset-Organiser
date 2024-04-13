@@ -23,3 +23,5 @@ This button refreshes and displays the list of all presets available.
 ### Share Preset
 ![Select Preset](https://github.com/Gauravpatil-8/Real-Time-Asset-Organiser/blob/main/Resource/Share.png)<br>
 Clicking this button will open up a file browser for you to choose a location to store the preset on your system. From there, you can share the preset with anyone through email or other means.
+<br>
+### More:[Setting folder path](https://github.com/Gauravpatil-8/Real-Time-Asset-Organiser/edit/main/Documentation/FolderPaths.md)
