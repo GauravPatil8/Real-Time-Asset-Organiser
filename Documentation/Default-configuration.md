@@ -1,6 +1,6 @@
 # Default Configuration
 
-By clicking on "Save Configuration," the current state of the addon, including all the selected options and paths, will be saved. The next time you open Blender, the addon will set up all the options you saved.
+By clicking on "Save Configuration," the current state of the addon, including all the selected options and paths, will be saved. The next time you open Blender, the addon will set up all the options you saved.<br>
 ![Default](https://github.com/Gauravpatil-8/Real-Time-Asset-Organiser/blob/main/Resource/configuredefaults.png)
 ## Zip Extraction Mode
 
