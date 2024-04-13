@@ -13,7 +13,7 @@ There are two monitoring types:
    - 1 Second
    - 3 Seconds
    - 7 Seconds
-3.**Transfer Log**:
+<br>3.**Transfer Log**:
    This Button display a window that shows the name of the file and the location where it has been moved to.
 <br>![Transfer log](https://github.com/Gauravpatil-8/Real-Time-Asset-Organiser/blob/main/Resource/transferlog.png)<br>
 
