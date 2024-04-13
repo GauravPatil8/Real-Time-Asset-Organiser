@@ -10,5 +10,5 @@ To choose a folder to monitor, you can either enter the path of the folder in th
 
 In this folder, all the downloaded assets will be organized. You can either enter the path of the folder in the provided space or click on the folder option and select the folder from the file browser that opens. All assets will be organized in the specified folder.
 
-### More: [Monitoring Type](https://github.com/Gauravpatil-8/Real-Time-Asset-Organiser/edit/main/Documentation/Monitoring-types.md)
+### More: [Monitoring Type](https://github.com/Gauravpatil-8/Real-Time-Asset-Organiser/blob/main/Documentation/Monitoring-types.md)
 
